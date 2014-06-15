@@ -1,0 +1,12 @@
+#!/bin/csh -f
+set port = 2851
+set logfile = ../src/valgrind.txt
+
+nice
+#limit coredumpsize 8128k
+#limit filesize 16256k
+
+cd ../area
+valgrind -v --time-stamp=yes --tool=memcheck --run-libc-freeres=yes --error-limit=no --leak-resolution=high --demangle=yes --show-reachable=yes --leak-check=yes  ../src/mcloud $port >&! $logfile &
+
+

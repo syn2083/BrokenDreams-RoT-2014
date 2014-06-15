@@ -1,0 +1,1307 @@
+#ROUTER *dalet
+#MUDLIST
+Name		4liberty
+Status		-1
+IP			24.222.84.75
+Mudlib		Chronicles1.2a
+Baselib		Smaug
+Driver		I3 Driver 2.40b
+Type		DikuMUD
+Openstatus	Operational
+Email		patriot19@hushmail.com
+Ports 6968 0 0
+Services 1 1 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		7thplane
+Status		-1
+IP			50.116.28.114
+Mudlib		IMC2 Freedom CL-2.2-PlanarDiku
+Baselib		IMC2 Freedom CL-2.2-PlanarDiku
+Driver		IMC2 client
+Type		n/a
+Openstatus	Email		 
+Email		(null)
+Ports 8888 0 0
+Services 1 0 0 1 0 0 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Adaka
+Status		-1
+IP			178.196.188.16
+Mudlib		CoffeeMud v5.8.0.1
+Baselib		CoffeeMud v5.8.0.1
+Driver		CoffeeMud v5.8.0.1
+Type		CoffeeMud
+Openstatus	Open for public
+Email		treimann@decrea.ch
+Ports 5555 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Aftermath RPG
+Status		-1
+IP			67.185.71.85
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Restricted Access
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		AF_Demo
+Status		-1
+IP			71.19.157.196
+Mudlib		IMC2 Freedom CL-2.1a AckFUSS 4.4.2
+Baselib		IMC2 Freedom CL-2.1a AckFUSS 4.4.2
+Driver		IMC2 client
+Type		n/a
+Openstatus	Email		 
+Email		(null)
+Ports 1234 0 0
+Services 1 0 0 1 0 0 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Amphigory
+Status		-1
+IP			66.172.11.133
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		amphigory-admin@rm-f.net
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 0 0 8001 0 0 0
+End
+
+#MUDLIST
+Name		Ardvor
+Status		-1
+IP			173.172.41.37
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	MudLib Development
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Balance MUD
+Status		-1
+IP			70.114.142.47
+Mudlib		CoffeeMud v5.8.2
+Baselib		CoffeeMud v5.8.2
+Driver		CoffeeMud v5.8.2
+Type		CoffeeMud
+Openstatus	Beta Testing
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Bloodlines
+Status		-1
+IP			71.89.162.105
+Mudlib		Dead Souls 3.6
+Baselib		Dead Souls 3.6
+Driver		FluffOS v2.27
+Type		LPMud
+Openstatus	mudlib development
+Email		quixadhal@shadowlord.org
+Ports 5000 5006 5008
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 4999 0 5001 0 0 0
+End
+
+#MUDLIST
+Name		Book of Ages
+Status		-1
+IP			199.74.141.8
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Restricted Access
+Email		pneema@genesismuds.com
+Ports 5000 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		BreakingLP
+Status		-1
+IP			69.164.194.158
+Mudlib		Dead Souls 3.7a7
+Baselib		Dead Souls 3.7a7
+Driver		FluffOS v2.18-ds07
+Type		LPMud
+Openstatus	mudlib development
+Email		bigd@failbox.co.cc
+Ports 8329 8335 8337
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 0 0 8010 0 0 0
+End
+
+#MUDLIST
+Name		BrokenDreamsBuilders
+Status		-1
+IP			71.184.194.130
+Mudlib		IR-BD.02a
+Baselib		RoT - 2.0b5
+Driver		AFKMud I3 Driver 2.40b
+Type		RoT
+Openstatus	In Development
+Email		syndicate2083@gmail.com
+Ports 2862 0 0
+Services 1 1 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		BrokenDreamsDev
+Status		-1
+IP			71.184.194.130
+Mudlib		RoT
+Baselib		RoT
+Driver		AFKMud I3 Driver 2.40b
+Type		RoT
+Openstatus	In Development
+Email		syndicate2083@gmail.com
+Ports 2872 0 0
+Services 1 1 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Calantia
+Status		-1
+IP			144.76.73.112
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Beta Testing
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		CoffeeMud
+Status		-1
+IP			99.62.173.152
+Mudlib		CoffeeMud v5.8.2
+Baselib		CoffeeMud v5.8.2
+Driver		CoffeeMud v5.8.2
+Type		CoffeeMud
+Openstatus	Open to the public
+Email		zac@coffeemud.net
+Ports 23 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Core MUD
+Status		-1
+IP			174.133.80.138
+Mudlib		Colony 1.3
+Baselib		Colony 1.3
+Driver		MudOS v22.2b14
+Type		LPMud
+Openstatus	Open to players
+Email		dshay01@coremud.org
+Ports 4000 4010 4020
+Services 1 0 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 80 0 0 0
+End
+
+#MUDLIST
+Name		Crat's Agony
+Status		-1
+IP			138.91.79.81
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		sspiller@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Darkmaze
+Status		-1
+IP			219.89.124.52
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		mike@redhill.net.nz
+Ports 6900 6906 6908
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6899 0 6901 0 0 0
+End
+
+#MUDLIST
+Name		Dead Souls
+Status		-1
+IP			97.107.133.86
+Mudlib		Dead Souls 3.8
+Baselib		Dead Souls 3.8
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		cratylus@comcast.net
+Ports 8088 8094 8096
+Services 1 0 1 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Dead Souls Dev
+Status		-1
+IP			97.107.133.86
+Mudlib		Dead Souls 3.8
+Baselib		Dead Souls 3.8
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		cratylus@comcast.net
+Ports 8000 8006 8008
+Services 1 0 1 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 8001 0 0 0
+End
+
+#MUDLIST
+Name		Dead Souls Prime
+Status		-1
+IP			97.107.133.86
+Mudlib		Dead Souls 3.8
+Baselib		Dead Souls 3.8
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		cratylus@comcast.net
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 0 0 6661 0 0 0
+End
+
+#MUDLIST
+Name		Dead_Pariahs_Society
+Status		-1
+IP			74.109.122.130
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		mike@ambrosialpariah.com
+Ports 10206 10212 10214
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 0 0 10207 0 0 0
+End
+
+#MUDLIST
+Name		Dead_Souls_dodger
+Status		-1
+IP			108.171.179.222
+Mudlib		Dead Souls 3.6
+Baselib		Dead Souls 3.6
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		el.dodgero@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Dead_Souls_gaborn
+Status		-1
+IP			23.120.226.249
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		gaborn@dartmud.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Dead_Souls_maestro
+Status		-1
+IP			85.251.41.169
+Mudlib		Dead Souls 3.6
+Baselib		Dead Souls 3.6
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		fjsanchezgil@gmail.com
+Ports 23 29 31
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 22 0 24 0 0 0
+End
+
+#MUDLIST
+Name		Dead_Souls_zeus
+Status		-1
+IP			74.194.226.59
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		jeff@cactusblossom.org
+Ports 4242 4248 4250
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 4241 0 4243 0 0 0
+End
+
+#MUDLIST
+Name		Discworld
+Status		-1
+IP			82.68.167.69
+Mudlib		Discworld 18.0a
+Baselib		Discworld
+Driver		FluffOS v2.27
+Type		LPMud
+Openstatus	open for players
+Email		trustees@discworld.starturtle.net
+Ports 23 8765 0
+Services 1 0 1 1 1 1 1 0 0 0 1 0
+OOBports 0 4444 0 80 0 0 0
+End
+
+#MUDLIST
+Name		DM_Test
+Status		-1
+IP			107.170.107.250
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		gaborn@dartmud.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Epitaph
+Status		-1
+IP			78.129.181.118
+Mudlib		Tim's LPC IMC2 client 30-Jan-05
+Baselib		Tim's LPC IMC2 client 30-Jan-05
+Driver		IMC2 client
+Type		n/a
+Openstatus	Email		 
+Email		(null)
+Ports 0 0 0
+Services 1 0 0 1 0 0 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Epitaph Black Ops
+Status		-1
+IP			78.129.181.19
+Mudlib		Epiphany v1.0.18 [development]
+Baselib		Epiphany v1.0.18 [development]
+Driver		FluffOS v2.26 (MeekOS version)
+Type		LPMud
+Openstatus	Development
+Email		none
+Ports 6789 8765 0
+Services 1 0 1 1 1 1 1 0 0 0 1 0
+OOBports 0 6001 0 80 0 0 0
+End
+
+#MUDLIST
+Name		Epitaph_Black_Ops
+Status		-1
+IP			78.129.181.19
+Mudlib		Baselib		 
+Baselib		(null)
+Driver		Type		 
+Type		(null)
+Openstatus	Email		 
+Email		(null)
+Ports 0 0 0
+Services 1 0 0 1 0 0 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		FateMUD
+Status		-1
+IP			54.200.161.71
+Mudlib		CoffeeMud v5.8.0.1
+Baselib		CoffeeMud v5.8.0.1
+Driver		CoffeeMud v5.8.0.1
+Type		CoffeeMud
+Openstatus	Open for public
+Email		archon@54.200.161.71
+Ports 5555 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		FireForge
+Status		-1
+IP			74.207.252.177
+Mudlib		Dead Souls 3.6
+Baselib		Dead Souls 3.6
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		penny@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Freedom City
+Status		-1
+IP			50.188.186.164
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02w
+Type		LPMud
+Openstatus	mudlib development
+Email		extravert@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Frontiers
+Status		-1
+IP			204.209.44.3
+Mudlib		Dead Souls 2.10
+Baselib		Dead Souls 2.10
+Driver		FluffOS v2.15-ds05
+Type		LPMud
+Openstatus	mudlib development
+Email		cratylus@comcast.net
+Ports 8000 8006 8008
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		GuardianMUD
+Status		-1
+IP			207.167.13.120
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	MudLib Development
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Haven
+Status		-1
+IP			23.253.225.109
+Mudlib		Haven 0.1
+Baselib		Haven 0.1
+Driver		FluffOS v2.9-ds2.14
+Type		LPMud
+Openstatus	Open - Small playerbase
+Email		Hidden from Spammers
+Ports 5000 5005 5008
+Services 1 0 1 1 1 1 1 0 0 0 0 0
+OOBports 0 4999 0 80 0 4990 0
+End
+
+#MUDLIST
+Name		HavenTest
+Status		-1
+IP			72.191.28.197
+Mudlib		Haven 0.1
+Baselib		Haven 0.1
+Driver		FluffOS v2.9-ds2.14
+Type		LPMud
+Openstatus	Open - Small playerbase
+Email		Hidden from Spammers
+Ports 5000 5005 5008
+Services 1 0 1 1 1 1 1 0 0 0 0 0
+OOBports 0 4999 0 80 0 4990 0
+End
+
+#MUDLIST
+Name		Hollowworld MUD
+Status		-1
+IP			198.178.120.144
+Mudlib		CoffeeMud v5.8.0.1
+Baselib		CoffeeMud v5.8.0.1
+Driver		CoffeeMud v5.8.0.1
+Type		CoffeeMud
+Openstatus	Open for public
+Email		chris@herbert.net
+Ports 5555 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Iberia MUD
+Status		-1
+IP			85.138.112.144
+Mudlib		IME v0.996b
+Baselib		IME
+Driver		IME
+Type		IME
+Openstatus	beta testing
+Email		joaodiasafonso@gmail.com
+Ports 5900 0 0
+Services 1 0 1 1 0 0 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Iberia MUD test
+Status		-1
+IP			85.138.112.144
+Mudlib		IME v0.996b
+Baselib		IME
+Driver		IME
+Type		IME
+Openstatus	beta testing
+Email		joaodiasafonso@gmail.com
+Ports 5900 0 0
+Services 1 0 1 1 0 0 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Inner Spheres
+Status		-1
+IP			199.74.141.8
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		solaris@genesismuds.com
+Ports 9898 9904 9906
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 9897 0 9899 0 0 0
+End
+
+#MUDLIST
+Name		Insomnia
+Status		-1
+IP			24.155.195.209
+Mudlib		Chronicles1.2a
+Baselib		Smaug
+Driver		I3 Driver 2.40b
+Type		DikuMUD
+Openstatus	Operational
+Email		jupiter@mygrande.net
+Ports 4100 0 0
+Services 1 1 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		JMud
+Status		-1
+IP			80.47.104.153
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		ron@ron.com
+Ports 2525 2531 2533
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 2524 0 2526 0 0 0
+End
+
+#MUDLIST
+Name		KerZhawMUD
+Status		-1
+IP			210.54.213.181
+Mudlib		Dead Souls 3.6
+Baselib		Dead Souls 3.6
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		paul.kershaw@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Leaf Voyaging
+Status		-1
+IP			98.178.141.214
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	MudLib Development
+Email		entheos@riseup.net
+Ports 5555 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Lords_Legends
+Status		-1
+IP			24.155.195.209
+Mudlib		Baselib		 
+Baselib		(null)
+Driver		Type		 
+Type		(null)
+Openstatus	Email		 
+Email		(null)
+Ports 0 0 0
+Services 1 0 0 1 0 0 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		MUD
+Status		-1
+IP			199.101.97.91
+Mudlib		Dead Souls 3.7a7
+Baselib		Dead Souls 3.7a7
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		1@1
+Ports 1234 1240 1242
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 1233 0 1235 0 0 0
+End
+
+#MUDLIST
+Name		Mud of Thrones
+Status		-1
+IP			69.164.204.239
+Mudlib		CoffeeMud v5.8.2
+Baselib		CoffeeMud v5.8.2
+Driver		CoffeeMud v5.8.2
+Type		CoffeeMud
+Openstatus	Beta Testing
+Email		admin@thewizardingworld.net
+Ports 5464 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		multiverse_test
+Status		-1
+IP			74.207.246.92
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		salterryanjr@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 8001 0 0 0
+End
+
+#MUDLIST
+Name		Mystic
+Status		-1
+IP			207.246.96.22
+Mudlib		Realms of Mystic Lib .06b
+Baselib		Realms of Mystic Lib .06b
+Driver		MudOS v22.2b14
+Type		LPMud
+Openstatus	now serving
+Email		mystic@uprising.net
+Ports 3000 3005 3008
+Services 1 0 1 1 1 1 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Mystic Ruins
+Status		-1
+IP			66.85.147.90
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Beta Testing
+Email		admin@mystic-ruins.com
+Ports 6000 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Nanvaent
+Status		-1
+IP			207.162.200.121
+Mudlib		Nanvaent V.4ish
+Baselib		Nanvaent
+Driver		NANVAENT 3 (FluffOS v2.18)
+Type		LP
+Openstatus	open for public
+Email		admin@nanvaent.org
+Ports 3000 3001 0
+Services 1 0 1 1 1 1 1 0 0 1 1 1
+OOBports 0 4001 0 80 0 0 0
+End
+
+#MUDLIST
+Name		Nightfall
+Status		-1
+IP			94.23.250.24
+Mudlib		NF
+Baselib		NF
+Driver		LPMud 3.3.720
+Type		LPMud
+Openstatus	open for public
+Email		administration@nightfall.org
+Ports 4242 4246 4246
+Services 1 0 1 1 1 1 1 0 0 0 0 0
+OOBports 0 21 0 80 0 0 0
+End
+
+#MUDLIST
+Name		OASIS
+Status		-1
+IP			108.171.162.192
+Mudlib		Dead Souls 3.7a6
+Baselib		Dead Souls 3.7a6
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		oasis@gofever.com
+Ports 256 262 264
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 255 0 0 0 0 0
+End
+
+#MUDLIST
+Name		OASIS_dev1
+Status		-1
+IP			108.171.162.192
+Mudlib		Dead Souls 3.7a6
+Baselib		Dead Souls 3.7a6
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		oasis@gofever.com
+Ports 2560 2566 2568
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 2559 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Park City
+Status		-1
+IP			76.225.148.93
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02w
+Type		LPMud
+Openstatus	mudlib development
+Email		kym.farley@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		PastraMUD
+Status		-1
+IP			162.243.12.171
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		rsdehart@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		psylo_dev
+Status		-1
+IP			192.210.133.68
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		no@no.on
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 8001 0 0 0
+End
+
+#MUDLIST
+Name		Rebirth
+Status		-1
+IP			173.25.193.209
+Mudlib		Dead Souls 3.7a7
+Baselib		Dead Souls 3.7a7
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		elliot.krueger@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		Rock the Halo
+Status		-1
+IP			46.32.249.21
+Mudlib		Sapidlib Unreleased
+Baselib		Sapidlib Pre-Alpha
+Driver		FluffOS v2.27
+Type		LPMud
+Openstatus	Mudlib Development
+Email		harrison.rt [at] gmail.com?subject=Sapidlib
+Ports 6060 6065 6065
+Services 0 0 0 0 0 0 0 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		RoD
+Status		-1
+IP			38.119.115.95
+Mudlib		RoD Lib
+Baselib		RoD Lib
+Driver		MudOS v22.1
+Type		LPMud
+Openstatus	Online over 12 years :)
+Email		mud@rod.org
+Ports 3000 3005 3008
+Services 1 0 1 1 1 1 1 0 0 0 0 1
+OOBports 3025 3001 0 3080 0 2990 0
+End
+
+#MUDLIST
+Name		RtH Minecraft
+Status		-1
+IP			46.32.249.21
+Mudlib		CraftBukkit 1.7.2-R0.3
+Baselib		CraftBukkit 1.7.2-R0.3
+Driver		RtH CraftBukkit Client v1.4
+Type		Other.CraftBukkit
+Openstatus	beta testing
+Email		harrison.rt@gmail.com
+Ports 25565 0 0
+Services 0 0 0 0 0 0 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Second Contract
+Status		-1
+IP			50.57.187.30
+Mudlib		Dead Souls 3.6
+Baselib		Dead Souls 3.6
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	open alpha
+Email		admin@second-contract.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 0 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		ShadowMUD
+Status		-1
+IP			199.74.141.8
+Mudlib		Nightmare/ShadowLib 3.2.2/0.1
+Baselib		Nightmare/ShadowLib 3.2.2/0.1
+Driver		FluffOS v2.22
+Type		LP
+Openstatus	alpha testing
+Email		shadowmudii@hotmail.com
+Ports 1030 1039 1038
+Services 1 0 1 1 1 1 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		ShadowMUDii Dev
+Status		-1
+IP			199.74.141.8
+Mudlib		Nightmare/ShadowLib 3.2.2/0.1
+Baselib		Nightmare/ShadowLib 3.2.2/0.1
+Driver		FluffOS v2.22
+Type		LP
+Openstatus	alpha testing
+Email		shadowmudii@hotmail.com
+Ports 1035 1044 1043
+Services 1 0 1 1 1 1 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Sinemud
+Status		-1
+IP			192.241.237.138
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		samkarpalosuo@rocketmail.com
+Ports 1666 1672 1674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 1665 0 1667 0 0 0
+End
+
+#MUDLIST
+Name		Sithicus
+Status		-1
+IP			69.2.102.110
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Beta Testing
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Split Infinity
+Status		-1
+IP			131.155.141.70
+Mudlib		Nightmare IVr4
+Baselib		Nightmare IVr4
+Driver		MudOS v22.2b14
+Type		LPMud
+Openstatus	fully open
+Email		scottdanzig@yahoo.com
+Ports 4000 4005 4008
+Services 1 0 1 1 1 1 1 0 0 0 0 0
+OOBports 0 3999 0 3995 0 3990 0
+End
+
+#MUDLIST
+Name		SWmud
+Status		-1
+IP			173.230.133.108
+Mudlib		SWmud Mudlib 1.0
+Baselib		SWmud Mudlib 1.0
+Driver		FluffOS v3.0-alpha8
+Type		LPMud
+Openstatus	live
+Email		admin@swmud.org
+Ports 6666 0 6674
+Services 1 0 1 1 1 1 1 0 0 0 1 0
+OOBports 0 8765 0 6661 0 6656 0
+End
+
+#MUDLIST
+Name		Synergistic
+Status		-1
+IP			162.243.151.78
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		pauldsullivanjr@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		TEST
+Status		-1
+IP			207.66.255.52
+Mudlib		CoffeeMud v5.8.0
+Baselib		CoffeeMud v5.8.0
+Driver		CoffeeMud v5.8.0
+Type		CoffeeMud
+Openstatus	Open for public
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		TestingMUD
+Status		-1
+IP			98.203.192.62
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Beta Testing
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		The Infected City
+Status		-1
+IP			66.103.51.9
+Mudlib		Infect Engine
+Baselib		IE0
+Driver		IEV0
+Type		Infect Engine
+Openstatus	Beta Testing
+Email		theinfectedcity@gmail.com
+Ports 4000 0 0
+Services 1 1 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		The Savage Soul
+Status		-1
+IP			173.255.210.234
+Mudlib		Dead Souls 3.7a7
+Baselib		Dead Souls 3.7a7
+Driver		FluffOS v2.23-ds01
+Type		LPMud
+Openstatus	mudlib development
+Email		savagesoul@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 8001 0 0 0
+End
+
+#MUDLIST
+Name		The World Of Imago
+Status		-1
+IP			23.94.104.49
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Restricted Access
+Email		mail@worldofimago.com
+Ports 5555 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Tijer's Test MUD
+Status		-1
+IP			178.79.173.99
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.23-ds02
+Type		LPMud
+Openstatus	mudlib development
+Email		tijer@godwars.net
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		TimMUD
+Status		-1
+IP			207.210.217.204
+Mudlib		Tmi-2 1.4
+Baselib		Tmi-2 1.4
+Driver		MudOS v21.7a10
+Type		LPmud
+Openstatus	Mudlib Development
+Email		cmdrkeen2@aol.com (Tim)
+Ports 4444 4447 0
+Services 1 1 1 1 1 1 1 0 0 0 1 1
+OOBports 0 4443 0 4439 0 0 0
+End
+
+#MUDLIST
+Name		TMI-2 Win32
+Status		-1
+IP			210.61.157.53
+Mudlib		Tmi-2 1.4
+Baselib		Tmi-2 1.4
+Driver		FluffOS v2.16-ds05w
+Type		LPmud
+Openstatus	Mudlib Development
+Email		Unknown
+Ports 5000 5003 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 4999 0 4995 0 0 0
+End
+
+#MUDLIST
+Name		UnifiedMUD
+Status		-1
+IP			78.47.48.211
+Mudlib		CoffeeMud v5.8.1.1
+Baselib		CoffeeMud v5.8.1.1
+Driver		CoffeeMud v5.8.1.1
+Type		CoffeeMud
+Openstatus	Beta Testing
+Email		Ports 5555 0 0
+Ports 0 0 0
+Services 1 0 0 1 1 1 1 0 0 0 1 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		UOSSMUD
+Status		-1
+IP			69.9.32.139
+Mudlib		Lima 1.0a6
+Baselib		Lima
+Driver		MudOS v22.2b12
+Type		LP
+Openstatus	open
+Email		uossmud@sandwich.net
+Ports 9000 9001 0
+Services 1 0 1 1 1 1 1 0 1 1 1 1
+OOBports 0 21 0 80 0 0 0
+End
+
+#MUDLIST
+Name		War of Legend
+Status		-1
+IP			178.79.173.99
+Mudlib		WoL
+Baselib		Merc
+Driver		AFKMud I3 Driver 2.33
+Type		Diku
+Openstatus	Open
+Email		admin@waroflegend.net
+Ports 4200 0 0
+Services 1 0 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		War_of_Legend_Dev
+Status		-1
+IP			178.79.173.99
+Mudlib		WoL
+Baselib		Merc
+Driver		AFKMud I3 Driver 2.33
+Type		Diku
+Openstatus	Open
+Email		admin@waroflegend.net
+Ports 4201 0 0
+Services 1 0 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		Way of the Force
+Status		-1
+IP			195.242.99.94
+Mudlib		WOTFlib 0.90
+Baselib		LPMud
+Driver		DGD 1.2.157-WOTF-NET
+Type		LPMud
+Openstatus	beta testing
+Email		aidil@wotf.org
+Ports 23 3000 3000
+Services 1 0 0 1 0 1 1 0 0 0 0 0
+OOBports 0 21 0 80 0 0 0
+End
+
+#MUDLIST
+Name		WileyMUD
+Status		-1
+IP			71.89.162.105
+Mudlib		WileyMUD III 1.187b
+Baselib		WileyMUD III 1.187b
+Driver		I3 Driver 2.40b
+Type		DikuMUD
+Openstatus	Idle
+Email		quixadhal@shadowlord.org
+Ports 3000 0 0
+Services 1 1 1 1 1 1 1 0 0 0 0 1
+OOBports 0 0 0 0 0 0 0
+End
+
+#MUDLIST
+Name		World of Sango III
+Status		-1
+IP			106.186.118.197
+Mudlib		Dead Souls 3.8.1
+Baselib		Dead Souls 3.8.1
+Driver		FluffOS v2.27
+Type		LPMud
+Openstatus	mudlib development
+Email		zenyer@gmail.com
+Ports 6666 6672 6674
+Services 1 0 1 1 1 1 1 0 1 0 1 0
+OOBports 0 6665 0 6667 0 0 0
+End
+
+#MUDLIST
+Name		WWC
+Status		-1
+IP			174.97.194.232
+Mudlib		FRlib III
+Baselib		WWC
+Driver		FluffOS v2.23
+Type		LP
+Openstatus	mudlib development
+Email		wwc@potato.org
+Ports 4000 0 0
+Services 1 0 0 1 1 1 1 0 0 0 0 0
+OOBports 0 0 0 0 0 0 0
+End
+
+#END
